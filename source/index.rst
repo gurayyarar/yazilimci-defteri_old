@@ -1,20 +1,14 @@
-.. yazilimcidefteri documentation master file, created by
-   sphinx-quickstart on Mon Jun  3 13:18:11 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to yazilimcidefteri's documentation!
-============================================
+Yazılımcı Defteri'ne Hoşgeldiniz
+================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: YAZILIM
+   
+   yazilim/web/index
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   :caption: YAZILIM PROGRAMLARI
+   
+   yazilim-programlari/vscode/index
